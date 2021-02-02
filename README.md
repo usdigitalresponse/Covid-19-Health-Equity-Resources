@@ -1,4 +1,4 @@
-# Covid-19-Health-Equity-Resources
+# Covid-19 Health Equity: Communications and Educational Resources
 
 This is a list of resources, templates, tools, and health communication best practices from various states and counties in the United States to improve health equity and accessibility during Covid-19 vaccine rollout.
 
